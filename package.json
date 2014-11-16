@@ -1,0 +1,15 @@
+{
+  "name": "ku-weather",
+  "version": "0.0.1",
+
+  "dependencies": {
+  },
+
+  "devDependencies": {
+    "grunt": "latest",
+    "grunt-contrib-connect": "latest",
+    "grunt-autoprefixer": "latest",
+    "grunt-contrib-concat": "latest",
+    "grunt-contrib-watch": "latest"
+  }
+}

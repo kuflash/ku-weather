@@ -1,0 +1,11 @@
+.b-inform-box {
+	position: relative;
+	overflow: hidden;
+	margin: 5% 0;
+	max-width: 1200px;
+	display: flex;
+	flex-basis: 80%;
+	flex-flow: column wrap;
+	align-items: stretch;
+	align-content: stretch;
+}
